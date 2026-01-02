@@ -109,7 +109,7 @@ To evaluate Pre-classifier Alignment (PA), which is the typical case of URL, run
 ```
 @inproceedings{tian2025cross,
     title={cross-domain few-shot classification via invariant-content feature reconstruction},
-    author={Hongduan Tian and Ka Chun Cheung and Zhen Fang and Simon See and Tongliang Liu and Bo Han},
+    author={Hongduan Tian and Feng Liu and Ka Chun Cheung and Zhen Fang and Simon See and Tongliang Liu and Bo Han},
     booktitle={International Journal of Computer Vision (IJCV)},
     year={2025}
 }
